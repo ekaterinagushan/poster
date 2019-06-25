@@ -409,7 +409,7 @@ footer .art {
     .right h1 {
       font-size: 35px;
       margin-top: 20px;
-      margin-left: -582px;
+      margin-left: -564px;
     }
 
     .right p {
@@ -419,35 +419,40 @@ footer .art {
     }
 
     .right img {
-      width: 297px;
-      height: 284px;
+      width: 284px;
+      height: 381px;
       margin-left: -340px;
       margin-top: 19px;
     }
 
     .right-n {
       margin-top: 21px;
-      height: 664px;
-    }
-
-    .right-n img {
-      width: 297px;
-      height: 284px;
-      margin-left: -1143px;
-      margin-top: 73px;
+      height: 364px;
     }
 
     .right-n h1 {
       font-size: 35px;
-      width: 338px;
-      margin-left: -202px;
+      margin-left: -545px;;
+      width: 265px;
     }
 
     .right-n p {
-      left: 372px;
-      top: 690px;
-      width: 350px;
+      font-size: 23px;
+      top: 710px;
+      left: 62px;
+      width: 650px;
       line-height: 36px;
+    }
+
+    .poster1 {
+      margin-left: 10px;
+      height: 450px;
+    }
+
+    .poster1 img {
+      width: 160px;
+      margin-left: 10px;
+      margin-right: 10px;
     }
 
     .right-ne {
@@ -456,21 +461,54 @@ footer .art {
 
     .right-ne h1 {
       font-size: 35px;
-      width: 332px;
-      margin-left: -518px;;
+      width: 265px;
+      margin-left: -545px;;
     }
 
     .right-ne p {
-      left: 61px;
-      width: 334px;
-      margin-top: -761px;
+      font-size: 23px;
+      top: 1710px;
+      left: 62px;
+      width: 650px;
+      line-height: 36px;
     }
 
-    .right-ne img {
-      width: 297px;
-      height: 284px;
-      margin-left: -330px;
-      }
+    .poster2 {
+      height: 250px;
+    }
+
+    .poster2 img {
+      width: 189px;
+    }
+
+    .left h1 {
+      font-size: 35px;
+      width: 265px;
+      margin-left: -545px;;
+    }
+
+    .left p {
+      font-size: 23px;
+      top: 2580px;
+      left: 62px;
+      width: 650px;
+      line-height: 36px;
+    }
+
+    .poster3 {
+      height: 340px;
+      margin-left: 16px;
+    }
+
+    .poster3 img {
+      width: 156px;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: -20px;
+    }
+
+
+
 
     .portfolio {
       font-size: 20px;
