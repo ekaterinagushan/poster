@@ -280,9 +280,13 @@ footer .art {
     display: none;
   }
 
+  .right {
+    height: 550px;
+  }
+
   .right h1 {
-    width: 200px;
-    margin-left: -582px;
+    width: 236px;
+    margin-left: -562px;
   }
 
   .right p {
@@ -293,30 +297,40 @@ footer .art {
   }
 
   .right img {
-    width: 487px;
-    height: 444px;
+    width: 359px;
+    height: 459px;
     margin-left: 13px;
     margin-top: 71px;
   }
 
-  .right-n img {
-    width: 487px;
-    height: 444px;
-    margin-left: -957px;
-    margin-top: 71px;
+  .right-n  {
+    height: 344px;
   }
 
   .right-n h1 {
-    width: 384px;
-    margin-left: 5px;
+    width: 353px;
+    margin-left: -502px;
   }
 
+
   .right-n p {
-    left: 556px;
     font-size: 23px;
-    width: 406px;
-    line-height: 36px;
+    top: 910px;
+    left: 62px;
+    width: 900px;
+    line-height: 45px;
   }
+
+  .poster1 {
+    margin-left: -15px;
+    height: 500px;
+  }
+
+
+  .poster1 img {
+    width: 200px;
+  }
+
 
   .right-ne {
     margin-top: -160px;
@@ -330,17 +344,41 @@ footer .art {
   .right-ne p {
     left: 61px;
     font-size: 23px;
-    width: 405px;
-    margin-top: -250px;
+    width: 900px;
+    margin-top: -349px;
     line-height: 36px;
   }
 
-  .right-ne img {
-    width: 487px;
-    height: 444px;
-    margin-left: 13px;
-    margin-top: 71px;
+  .poster2 {
+    height: 400px;
   }
+
+  .poster2 img {
+    width: 275px;
+  }
+
+  .left h1 {
+    width: 362px;
+    margin-left: -503px;
+  }
+
+  .left p {
+    left: 61px;
+    font-size: 23px;
+    width: 900px;
+    margin-top: -519px;
+    line-height: 36px;
+  }
+
+  .poster3 {
+    height: 500px;
+  }
+
+  .poster3 img {
+    width: 190px;
+    margin-top: -20px;
+  }
+
 
   footer p {
     font-size: 10px;
